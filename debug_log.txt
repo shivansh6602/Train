@@ -1,0 +1,329 @@
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odisha
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odisha
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odisha
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odisha
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 15
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odishaewf
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odishaewf
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+    [train_id] => 4
+    [train_name] => Duronto Express
+    [train_unique_id] => DUR004
+    [source] => Pune
+    [destination] => Odishaewf
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 36
+)
+Array
+(
+    [train_id] => 36
+    [train_name] => dasddcxv
+    [train_unique_id] => vxvxcxcv
+    [source] => vvxcvcxv
+    [destination] => vcxvcxv
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 36
+    [train_name] => dasddcxv
+    [train_unique_id] => vxvxcxcv
+    [source] => vvxcvcxv
+    [destination] => vcxvcxv
+    [update_train] => 1
+)
+Array
+(
+    [id] => 10
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rathas
+    [train_unique_id] => GR002as
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [id] => 10
+)
+Array
+(
+    [train_id] => 10
+    [train_name] => Gareeb Rath
+    [train_unique_id] => GR002
+    [source] => Madhya Pradesh
+    [destination] => Ayodhya
+    [update_train] => 1
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 4
+)
+Array
+(
+    [id] => 1
+)
+Array
+(
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => 1
+)
+Array
+(
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => 1
+)
+Array
+(
+    [id] => 1
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 1
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 1
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
+Array
+(
+    [id] => 1
+    [train_id] => 1
+    [train_name] => Rajdhani Express
+    [train_unique_id] => RAJ001
+    [source] => Agra
+    [destination] => Jaipuraxzsas
+    [update_train] => Update Train
+)
